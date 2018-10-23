@@ -1,0 +1,2 @@
+# bashito
+This little bash helper script is a tool for developers.  Inspired by boilerplates, best practices, and writing the same functions over and over again.  I set out to write a helper "library" that can be easily included and removed from the script you are writing, to give you your script additional functionality, ultimately aiding you while developing.  To use, add "source bashito.sh" under the #!/bin/bash in &lt;yourscript.sh>.  Additional functionality is evoked through options.
